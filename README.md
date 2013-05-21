@@ -5,7 +5,7 @@ The DNA of Nicholas Cerminara
 
 ## About
 
-Via [23andMe](http://23andme.com/), here is my raw, uninterpreted genome data (my DNA). I have provided 3 different data structures, as well as the original file downloaded.
+Via [23andMe](http://23andme.com/), here is my raw, uninterpreted genome data (my DNA). I have provided 3 different data structures, as well as the original file downloaded. Please send Pull Requests.
 
 ## License
 
