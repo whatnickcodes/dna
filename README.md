@@ -1,11 +1,14 @@
 dna
 ===
 
-The DNA of Nicholas Cerminara
+The DNA fingerprint of Nicholas Cerminara
 
 ## About
 
-Via [23andMe](http://23andme.com/), here is my raw, uninterpreted genome data (my DNA). I have provided 3 different data structures, as well as the original file downloaded. Please send Pull Requests.
+Via [23andMe](http://23andme.com/), here is my raw, uninterpreted genome SNP data (my DNA fingerprint). I have provided 3 different data structures, as well as the original file downloaded. Please send Pull Requests.
+
+## Data
+For each SNP, we provide its identifier (an rsid or an internal id), its location on the reference human genome, and the # genotype call oriented with respect to the plus strand on the human reference sequence. We are using reference human assembly build 37 (also known as Annotation Release 104).
 
 ## License
 
